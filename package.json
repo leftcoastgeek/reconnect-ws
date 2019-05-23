@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/jacobbubu/reconnect-ws",
   "dependencies": {
-    "reconnect-core": "KurentoForks/reconnect-core",
-    "websocket-stream": "~0.5.1"
+    "reconnect-core": "^1.3.0",
+    "websocket-stream": "^5.1.2"
   },
   "devDependencies": {
-    "ws": "~1.1.1"
+    "ws": "^6.0.0"
   }
 }
